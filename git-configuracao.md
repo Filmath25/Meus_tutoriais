@@ -4,6 +4,3 @@
 - git config --global user.name Filmath25 
 - git config --global user.email filipe.cabral.j@gmail.com 
 - git clone https://github.com/Filmath25/Meus_tutoriais.git 
- 
-**Data: 01/11/2025** 
-**Meu primeiro tutorial!** ?? 
